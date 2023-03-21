@@ -7,5 +7,5 @@ La NHANES utiliza una muestra representativa de la población estadounidense y r
 
 Los datos obtenidos de la NHANES se utilizan para establecer las pautas de salud pública y para monitorear las tendencias de la salud y la nutrición en la población estadounidense. También se utilizan para evaluar el impacto de políticas y programas de salud pública, así como para identificar las necesidades de investigación futura en el campo de la salud y la nutrición.
 
-## Este proyecto busca explorar los datos de la prueba de tolerancia a la glucosa, contenida en las bases de datos del Nhanes.
+## Este proyecto busca explorar y analizar  los datos de la prueba de tolerancia a la glucosa, contenida en las bases de datos del Nhanes.
 
